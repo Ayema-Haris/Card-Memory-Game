@@ -1,0 +1,24 @@
+# Ignore Visual Studio folders
+.vs/
+x64/
+Debug/
+Release/
+
+# Ignore build and temp files
+*.obj
+*.pdb
+*.exe
+*.lib
+*.exp
+*.suo
+*.VC.db
+*.idb
+*.cache
+*.ilk
+*.tlog
+
+# Ignore user-specific settings
+*.user
+*.log
+*.sdf
+*.ncb
