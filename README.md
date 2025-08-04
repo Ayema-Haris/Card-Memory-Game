@@ -3,6 +3,7 @@
 card memory game built using **C++** and the **SFML** framework.
 
 ## Folder Structure
+
 CardMemoryGame/
 ├── .gitignore
 ├── README.md
@@ -18,4 +19,5 @@ CardMemoryGame/
 4. Build and run
 
 > Make sure all assets (images, sounds, fonts) are present in the `assets/` folder.
+
 
