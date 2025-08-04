@@ -1,16 +1,17 @@
 ﻿## Card Memory Game
 
-card memory game built using **C++** and the **SFML** framework.
+Card memory game built using **C++** and the **SFML** framework.
 
 ## Folder Structure
 
+```
 CardMemoryGame/
 ├── .gitignore
 ├── README.md
 ├── gameDev(SFML).sln         # Visual Studio solution file
 ├── gameDev(SFML)/            # Source files
 ├── assets/                   # Game assets (images, audio, fonts)
-
+```
 
 ## How to Run
 1. Open the `.sln` file in **Visual Studio**
@@ -19,5 +20,6 @@ CardMemoryGame/
 4. Build and run
 
 > Make sure all assets (images, sounds, fonts) are present in the `assets/` folder.
+
 
 
